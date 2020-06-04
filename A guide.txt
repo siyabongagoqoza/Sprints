@@ -1,0 +1,1 @@
+JavaScript code is placed on the contact.js file for Sprint 1
